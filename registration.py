@@ -1,0 +1,8 @@
+name=input("enter your name : ")
+print("name:",name)
+b=input("enter your employee code : ")
+print("employee code:", b)
+c=input("enter your designation : ")
+print("designation:", c)
+d=input("enter your salary : ",d)
+print("salary:", d)
